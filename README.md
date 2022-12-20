@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay sanil</h1>
+<!-- <h1 align="center">Hi 👋, I'm Akshay sanil</h1>
 <h3 align="center">MlOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysanil&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysanil" /> </p>
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaysanil&show_icons=true&locale=en" alt="akshaysanil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysanil&" alt="akshaysanil" /></p>
+ -->

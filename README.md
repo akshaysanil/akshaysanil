@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysanil" alt="akshaysanil" /></a> </p>
 
-- 🔭 I’m currently working on **American sign language**
+- 🔭 I’m currently working on **Face Recognition Web App with Machine Learning in Flask**
 
-- 🌱 I’m currently learning **Tensorflow, Pytorch, Mediapipe**
+- 🌱 I’m currently learning **GCP**
 
 - 💬 Ask me about **Machine learning, Deep learning, Computer Vision**
 

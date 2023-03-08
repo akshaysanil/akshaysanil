@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysanil" alt="akshaysanil" /></a> </p>
 
-- 🔭 I’m currently working on **Flask API**
+- 🔭 I’m currently working on **Blood drop detection**
 
-- 🌱 I’m currently learning **GCP**
+- 🌱 I’m currently learning **Flask API**
 
 - 💬 Ask me about **Machine learning, Deep learning, Computer Vision**
 

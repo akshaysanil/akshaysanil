@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flask API**
 
-- 💬 Ask me about **Machine learning, Deep learning, Computer Vision**
+- 💬 Ask me about **Machine learning, Deep learning, Computer Vision,Yolo**
 
 - 📫 How to reach me **akshaysanil125@gmail.com**
 

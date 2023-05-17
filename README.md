@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay sanil</h1>
-<h3 align="center">Passionate Machine learning engineer</h3>
+<h3 align="center">Computer vision engineer</h3>
 
 
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **ITMS(intelligent trafic management system)**
 
-- 🌱 I’m currently learning **Flask API**
+- 🌱 I’m currently learning ** Jetson nano board **
 
-- 💬 Ask me about **Machine learning, Deep learning, Computer Vision,Yolo**
+- 💬 Ask me about **Machine learning ,AI, VA, Computer Vision ,Yolo**
 
 - 📫 How to reach me **akshaysanil125@gmail.com**
 

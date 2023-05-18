@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ** Jetson nano board **
 
-- 💬 Ask me about **Machine learning ,AI, VA, Computer Vision ,Yolo**
+- 💬 Ask me about ** ML , AI , VA , Computer Vision ,Yolo **
 
 - 📫 How to reach me **akshaysanil125@gmail.com**
 

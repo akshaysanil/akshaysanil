@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysanil" alt="akshaysanil" /></a> </p>
 
-- 🔭 I’m currently working on **ITMS(intelligent trafic management system)**
 
-- 🌱 I’m currently learning ** Jetson nano board **
 
-- 💬 Ask me about ** ML , AI , VA , Computer Vision ,Yolo **
+- 💬 Ask me about ** ML , AI , OpenCV, VA , Computer Vision ,Yolo **
 
 - 📫 How to reach me **akshaysanil125@gmail.com**
 

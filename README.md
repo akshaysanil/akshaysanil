@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay sanil</h1>
-<h3 align="center">Computer vision engineer</h3>
+<h3 align="center">Computer vision / Machine learning engineer</h3>
 
 
 
@@ -9,7 +8,6 @@
 
 
 
-- 💬 Ask me about ** ML , AI , OpenCV, VA , Computer Vision ,Yolo **
 
 - 📫 How to reach me **akshaysanil125@gmail.com**
 

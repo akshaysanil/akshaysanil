@@ -1,4 +1,4 @@
-<h3 align="center">AI / ML/ CV</h3>
+<h3 align="center">Lets talk about AI/ ML/ CV/ GenAI</h3>
 
 
 

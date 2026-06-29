@@ -1,4 +1,4 @@
-<h3 align="center">Computer vision / Machine learning engineer</h3>
+<h3 align="center">AI / ML/ CV</h3>
 
 
 
